@@ -12,9 +12,7 @@ USE `calatorie`;
 
 -- --------------------------------------------------------
 
---
--- Table structure for table `tourists`
---
+
 
 CREATE TABLE IF NOT EXISTS `tourists` (
   `id` smallint(5) NOT NULL AUTO_INCREMENT,
@@ -28,9 +26,7 @@ CREATE TABLE IF NOT EXISTS `tourists` (
 
 -- --------------------------------------------------------
 
---
--- Table structure for table `locations`
---
+
 
 CREATE TABLE IF NOT EXISTS `locations` (
   `id` smallint(5) unsigned NOT NULL AUTO_INCREMENT,
